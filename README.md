@@ -1,4 +1,7 @@
 # ReversedStrings
+[![Build Status](https://travis-ci.org/gkappler/ReversedStrings.jl.svg?branch=master)](https://travis-ci.com/github/gkappler/ReversedStrings.jl)
+[![Codecov](https://codecov.io/gh/gkappler/ReversedStrings.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/gkappler/ReversedStrings.jl)
+
 provides a lazy reverse `AbstractString` interface implementation with methods
 - `firstindex`
 - `lastindex`
