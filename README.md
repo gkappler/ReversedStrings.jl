@@ -1,4 +1,5 @@
 # ReversedStrings
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://gkappler.github.io/ReversedStrings.jl/dev)
 [![Build Status](https://travis-ci.org/gkappler/ReversedStrings.jl.svg?branch=master)](https://travis-ci.com/github/gkappler/ReversedStrings.jl)
 [![Codecov](https://codecov.io/gh/gkappler/ReversedStrings.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/gkappler/ReversedStrings.jl)
 
