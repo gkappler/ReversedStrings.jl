@@ -3,6 +3,9 @@ uuid = "d6a58270-6f46-44a2-ab4b-2a767377cb4b"
 authors = ["Gregor Kappler"]
 version = "0.1.0"
 
+[deps]
+AutoHashEquals = "15f4f7f2-30c1-5605-9d31-71845cf9641f"
+
 [compat]
 julia = "1"
 
